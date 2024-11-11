@@ -1,0 +1,71 @@
+body{
+    background-color: black;
+}
+
+
+
+
+header {
+    background-color: rgb(41, 5, 5);
+    
+}
+
+.titulo-principal {
+    text-decoration: none;
+    color: #fff;
+}
+
+.titulo-principal h1 {
+    display: inline;
+}
+
+
+nav{
+    padding: 0.5rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+nav a {
+    padding: 1rem;
+    color: white;
+    text-decoration: none;
+}
+
+img{
+    height: 600px;
+}
+
+.texto-videos{
+    color: #fff;
+    text-transform:capitalize;
+    font-size: 2rem;
+    padding: 2rem;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.video-flex{
+    padding: 1rem;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.noticia1 {
+    display: flex;
+    gap: 2rem;
+}
+
+.noticia1 img{
+    width: 600px;
+    height: auto;
+}
+
+.noticia-flex {
+    color: red;
+   display: flex;
+
+}
+
